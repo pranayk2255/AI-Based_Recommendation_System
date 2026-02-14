@@ -1,17 +1,5 @@
 # AI-Based_Recommendation_System
-COMPANY: CODTECH IT SOLUTIONS
 
-NAME : PRANAY KALMKAR
-
-INTERN ID: CITSOD646
-
-DOMAIN : JAVA PROGRAMMING
-
-DURATION : 4 WEEKS
-
-MENTOR: MUZAMMIL AHMED
-
-# Description
 This project builds a collaborative filtering recommendation system using Java and Apache Mahout to suggest products/content based on user preferences.
 
 # Features
